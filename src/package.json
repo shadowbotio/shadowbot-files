@@ -1,0 +1,19 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "Files service for Project Sootsprite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "fs-extra": "^5.0.0",
+    "python-shell": "^0.5.0",
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
